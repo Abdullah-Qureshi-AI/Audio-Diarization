@@ -1,0 +1,6 @@
+{
+  "name": "Al-Mufassir: Audio Diarization",
+  "description": "Professional audio diarization for Quran Tafseer, distinguishing between Arabic recitation, translation, and explanation using Gemini 1.5 Pro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
